@@ -1,1 +1,12 @@
 # tourist-website
+
+this wesbite is about a tourist site where we can register or apply for tour with pur own customization.
+
+ **IN ALL THE PAGE AT THE RIGHT TOP USER LOGIN IS PRESENT WHERE USER CAN LOGIN WITH THEIR ACCOUNT**
+ 
+  AT THE BOTTOM OF THE EACH PAGE NEWS LETTER BOX IS PRESENT WHERE USER CAN SUBSCRIBE TO COMPANY'S NEWS LETTER
+
+  USER CAN MODIFY THIER TOUR PACKAGES
+
+  THANK YOU**
+  
